@@ -22,4 +22,4 @@ Blockscout provides a comprehensive, easy-to-use interface for users to view, co
 
 While there are several explorers available to blockchain projects, most are closed systems (ie Etherscan, Etherchain) which are not independently verifiable and do not support all chains in the ecosystem. Blockscout provides a much needed open-source alternative. As the multi-chain paradigm continues to take hold in both private and public settings, transparent tools are needed to analyze and validate transactions and provide an explorer for all networks, including rollups, L2s, L3s and appchains.
 
-Information on the latest release and version history is available in the [Github repo](https://github.com/blockscout/blockscout/releases).
+Information on the latest releases and version history is available in the [Github repo](https://github.com/blockscout/blockscout/releases).
